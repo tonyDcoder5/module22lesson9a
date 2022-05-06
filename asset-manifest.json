@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/module22lesson9a/static/css/main.f277c68c.css",
+    "main.js": "/module22lesson9a/static/js/main.f48808f9.js",
+    "index.html": "/module22lesson9a/index.html",
+    "main.f277c68c.css.map": "/module22lesson9a/static/css/main.f277c68c.css.map",
+    "main.f48808f9.js.map": "/module22lesson9a/static/js/main.f48808f9.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f277c68c.css",
+    "static/js/main.f48808f9.js"
+  ]
+}
